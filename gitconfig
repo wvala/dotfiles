@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = will.valentine1603@gmail.com
+	name = Will Valentine
